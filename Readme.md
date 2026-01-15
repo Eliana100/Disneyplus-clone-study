@@ -16,7 +16,7 @@ O objetivo é praticar HTML, CSS e JavaScript, com foco em layout, organização
 ## Inspiração e referências
 
 Este projeto foi inspirado em um repositório base e em conteúdos educacionais.
-O desenvolvimento inclui adaptações e ajustes próprios com foco no aprendizado.
+Sendo o foco principal: consolidar conhecimentos de HTML, CSS e JavaScript em um projeto Front-end completo.
 
 Conteúdo de apoio utilizado:
 - Canal Hello Codes  
