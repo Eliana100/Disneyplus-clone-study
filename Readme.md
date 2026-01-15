@@ -12,11 +12,12 @@ O objetivo é praticar HTML, CSS e JavaScript, com foco em layout, organização
 - Manipulação de dados com JavaScript
 - Interações e comportamento da interface
 - Boas práticas de Front-end
+- Uso do Git para versionamento de código
 
 ## Inspiração e referências
 
 Este projeto foi inspirado em um repositório base e em conteúdos educacionais.
-Sendo o foco principal: consolidar conhecimentos de HTML, CSS e JavaScript em um projeto Front-end completo.
+Sendo o foco principal: consolidar conhecimentos de HTML, CSS, JavaScript e a prática com Git, em um projeto Front-end completo.
 
 Conteúdo de apoio utilizado:
 - Canal Hello Codes  
